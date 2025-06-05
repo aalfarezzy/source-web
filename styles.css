@@ -14,7 +14,7 @@ html {
 }
 
 nav {
-  background-color: #8DD8FF;
+  background-color: #AEC8A4;
   justify-content: space-between;
   display: flex;
   align-items: center;
@@ -63,7 +63,7 @@ nav ul li a {
   height: 170px;
   width: 170px;
   border-radius: 20px;
-  background-color: #4070f4;
+  background-color: #AEC8A4;
   padding: 2px;
   margin-bottom: 10px;
 }
@@ -104,5 +104,5 @@ nav ul li a {
 .title {
   font-size: 24px;
   font-weight: bold;
-  color: #0093ce;
+  color: #AEC8A4;
 }
